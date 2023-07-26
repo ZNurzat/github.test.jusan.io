@@ -1,9 +1,1 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "kz.jysan.business",
-    "sha256_cert_fingerprints":
-    ["CC:B4:96:6F:FE:90:93:30:98:50:1C:4D:22:4F:7E:00:C2:91:0A:77:C6:33:77:29:03:80:6F:AB:29:1C:55:87", "39:11:2A:AB:03:47:CA:7D:98:6A:5B:D2:4A:74:BF:E3:D7:7D:56:E8:FF:4D:2E:70:D7:BC:19:05:DB:17:29:7B"]
-  }
-}]
+[{"target":{"package_name":"kz.tsb.app24","sha256_cert_fingerprints":["46:E3:28:43:CF:87:BD:81:D4:63:80:3C:76:0B:6B:12:97:78:03:DB:77:C5:F5:F9:24:4B:73:03:D1:8C:7A:0C"],"namespace":"android_app"},"relation":["delegate_permission/common.handle_all_urls"]},{"target":{"package_name":"kz.tsb.app24","sha256_cert_fingerprints":["E6:7C:82:3C:24:FD:68:2E:63:30:67:DD:24:4A:A2:9C:1A:82:8F:A1:72:94:E5:2C:85:A8:2B:61:9F:28:72:CE"],"namespace":"android_app"},"relation":["delegate_permission/common.handle_all_urls"]},{"target":{"package_name":"kz.jysan.business","sha256_cert_fingerprints":["CC:B4:96:6F:FE:90:93:30:98:50:1C:4D:22:4F:7E:00:C2:91:0A:77:C6:33:77:29:03:80:6F:AB:29:1C:55:87","39:11:2A:AB:03:47:CA:7D:98:6A:5B:D2:4A:74:BF:E3:D7:7D:56:E8:FF:4D:2E:70:D7:BC:19:05:DB:17:29:7B"],"namespace":"android_app"},"relation":["delegate_permission/common.handle_all_urls"]}]

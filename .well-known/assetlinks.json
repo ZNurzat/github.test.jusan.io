@@ -18,25 +18,5 @@
         "39:11:2A:AB:03:47:CA:7D:98:6A:5B:D2:4A:74:BF:E3:D7:7D:56:E8:FF:4D:2E:70:D7:BC:19:05:DB:17:29:7B"
       ]
     }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "kz.jysan.business.dev",
-      "sha256_cert_fingerprints": [
-        "CC:B4:96:6F:FE:90:93:30:98:50:1C:4D:22:4F:7E:00:C2:91:0A:77:C6:33:77:29:03:80:6F:AB:29:1C:55:87"
-      ]
-    }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "kz.jysan.business.dev",
-      "sha256_cert_fingerprints": [
-        "39:11:2A:AB:03:47:CA:7D:98:6A:5B:D2:4A:74:BF:E3:D7:7D:56:E8:FF:4D:2E:70:D7:BC:19:05:DB:17:29:7B"
-      ]
-    }
   }
 ]
